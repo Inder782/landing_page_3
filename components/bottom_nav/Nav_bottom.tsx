@@ -1,6 +1,8 @@
 import { nav_bottom } from "@/static/nav_bottom";
+
 import Link from "next/link";
 import React from "react";
+import { Separator } from "../ui/separator";
 
 const Nav_bottom = () => {
   return (
@@ -19,6 +21,7 @@ const Nav_bottom = () => {
             <Link href="/">{items.Link3}</Link>
             <Link href="/">{items.Link4}</Link>
             <Link href="/">{items.Link5}</Link>
+
             <Link href="/">{items.Link6}</Link>
           </div>
         </div>
