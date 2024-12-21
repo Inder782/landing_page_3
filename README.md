@@ -3,7 +3,7 @@
 
 Below are some examples of landing pages I've created:
 
-### 1. U Teach - Teach Students Worldwide
+### 1. U Teach - Teach Students Worldwide [Open in new tab](https://landing-page-4-weld.vercel.app/)
 
 [Open in new tab](https://landing-page-4-weld.vercel.app/)
 
