@@ -3,17 +3,15 @@
 
 Below are some examples of landing pages I've created:
 
-### 1. **Indian Stock Market Analysis**
+### 1. **U teach , Teach Students Worldwide**
 
-* [https://inder782.github.io/trading-research-projects/indian-stock-market-analysis](https://inder782.github.io/trading-research-projects/indian-stock-market-analysis)
+* https://landing-page-4-weld.vercel.app/
 
-### 2. **Cryptocurrency Trend Analysis**
+### 2. **Soller , Power simplified**
 
-* [https://inder782.github.io/trading-research-projects/cryptocurrency-trend-analysis](https://inder782.github.io/trading-research-projects/cryptocurrency-trend-analysis)
+* [https://landing-page-2-mu.vercel.app/]
 
-### 3. **Technical Analysis Dashboard**
 
-* [https://inder782.github.io/trading-research-projects/technical-analysis-dashboard](https://inder782.github.io/trading-research-projects/technical-analysis-dashboard)
 
 **Stay Updated**
 ----------------
