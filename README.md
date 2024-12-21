@@ -3,9 +3,9 @@
 
 Below are some examples of landing pages I've created:
 
-### 1. U Teach - Teach Students Worldwide [Open in new tab](https://landing-page-4-weld.vercel.app/)
+### 1. U Teach - Teach Students Worldwide
 
-[Open in new tab](https://landing-page-4-weld.vercel.app/)
+[Link here](https://landing-page-4-weld.vercel.app/)
 
 ### 2. Soller - Power Simplified
 
